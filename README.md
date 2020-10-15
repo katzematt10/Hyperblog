@@ -1,2 +1,6 @@
-# Hyperblog
-This is going to be a good start in GITHUB
+# Hyperblog 📈 
+This is the first project made by me, Mateo C.
+This project's core idea is to explore how [GitHub](https://github.com/katzematt10) works and learn how to use properly the main tools that the website give to its users.
+
+Be free to comment, any suggestion will be considered. Additionally, visit my [Youtube Channel](https://www.youtube.com/feed/my_videos) where I have some videos about discrete simulation and Excel macros.
+
